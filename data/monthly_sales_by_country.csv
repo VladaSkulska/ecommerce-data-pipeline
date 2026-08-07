@@ -1,0 +1,450 @@
+"country","year_month","transaction_type","total_orders","net_revenue"
+"United Kingdom","2010-12","Sale",1291,498661.85
+"Germany","2010-12","Sale",30,15241.14
+"France","2010-12","Sale",21,9616.31
+"EIRE","2010-12","Sale",15,8813.88
+"Netherlands","2010-12","Sale",3,8784.48
+"Japan","2010-12","Sale",3,7705.07
+"Sweden","2010-12","Sale",2,3834.30
+"Norway","2010-12","Sale",2,3787.12
+"Portugal","2010-12","Sale",6,2439.97
+"Spain","2010-12","Sale",4,1843.73
+"Belgium","2010-12","Sale",5,1809.91
+"Lithuania","2010-12","Sale",4,1661.06
+"Cyprus","2010-12","Sale",1,1590.82
+"Switzerland","2010-12","Sale",2,1304.92
+"Denmark","2010-12","Sale",1,1281.50
+"Australia","2010-12","Sale",3,1032.85
+"Finland","2010-12","Sale",1,892.80
+"Italy","2010-12","Sale",2,811.50
+"Iceland","2010-12","Sale",1,711.79
+"Channel Islands","2010-12","Sale",1,363.53
+"Austria","2010-12","Sale",1,277.20
+"Poland","2010-12","Sale",1,248.16
+"Italy","2010-12","Return",1,-17.00
+"Austria","2010-12","Return",1,-20.16
+"Australia","2010-12","Return",1,-27.75
+"France","2010-12","Return",3,-40.95
+"Portugal","2010-12","Return",2,-59.85
+"Israel","2010-12","Return",1,-227.44
+"Germany","2010-12","Return",13,-678.30
+"EIRE","2010-12","Return",4,-988.31
+"Sweden","2010-12","Return",1,-1188.00
+"United Kingdom","2010-12","Return",281,-14862.11
+"United Kingdom","2011-01","Sale",874,442190.06
+"Netherlands","2011-01","Sale",5,26611.16
+"EIRE","2011-01","Sale",7,21904.19
+"France","2011-01","Sale",29,17740.12
+"Germany","2011-01","Sale",31,16910.84
+"Spain","2011-01","Sale",8,10086.09
+"Australia","2011-01","Sale",9,9017.71
+"Switzerland","2011-01","Sale",3,4231.23
+"Portugal","2011-01","Sale",4,4055.71
+"Sweden","2011-01","Sale",2,3486.32
+"Greece","2011-01","Sale",1,2661.24
+"Italy","2011-01","Sale",3,2402.51
+"Singapore","2011-01","Sale",1,2053.07
+"Lebanon","2011-01","Sale",1,1693.88
+"Belgium","2011-01","Sale",3,1200.20
+"Finland","2011-01","Sale",2,889.02
+"Channel Islands","2011-01","Sale",1,675.58
+"Poland","2011-01","Sale",1,613.22
+"Cyprus","2011-01","Sale",1,547.50
+"Iceland","2011-01","Sale",1,475.39
+"Channel Islands","2011-01","Return",1,-30.50
+"Sweden","2011-01","Return",1,-40.00
+"Italy","2011-01","Return",2,-41.15
+"Belgium","2011-01","Return",3,-46.15
+"Portugal","2011-01","Return",1,-57.60
+"Japan","2011-01","Return",1,-109.80
+"EIRE","2011-01","Return",1,-232.67
+"France","2011-01","Return",10,-237.05
+"Germany","2011-01","Return",9,-459.41
+"Spain","2011-01","Return",3,-2907.55
+"United Kingdom","2011-01","Return",217,-90208.78
+"United Kingdom","2011-02","Sale",896,355655.63
+"Netherlands","2011-02","Sale",5,23011.91
+"Australia","2011-02","Sale",5,14695.42
+"EIRE","2011-02","Sale",9,10126.52
+"Germany","2011-02","Sale",19,9581.05
+"France","2011-02","Sale",21,8515.96
+"Japan","2011-02","Sale",2,5780.81
+"Cyprus","2011-02","Sale",6,4334.24
+"Switzerland","2011-02","Sale",5,2654.92
+"Belgium","2011-02","Sale",8,2181.07
+"Spain","2011-02","Sale",4,2114.50
+"Channel Islands","2011-02","Sale",1,1784.71
+"Portugal","2011-02","Sale",2,1213.90
+"United Arab Emirates","2011-02","Sale",1,889.24
+"Israel","2011-02","Sale",1,779.10
+"Norway","2011-02","Sale",2,630.90
+"Poland","2011-02","Sale",2,604.05
+"Czech Republic","2011-02","Sale",1,549.26
+"Austria","2011-02","Sale",2,518.36
+"Sweden","2011-02","Sale",1,509.50
+"Denmark","2011-02","Sale",1,399.22
+"Italy","2011-02","Sale",1,256.00
+"Finland","2011-02","Sale",1,205.16
+"Saudi Arabia","2011-02","Sale",1,145.92
+"Italy","2011-02","Return",1,-4.50
+"Switzerland","2011-02","Return",1,-12.25
+"Belgium","2011-02","Return",2,-19.75
+"Spain","2011-02","Return",1,-20.80
+"Australia","2011-02","Return",1,-67.95
+"France","2011-02","Return",6,-77.05
+"Netherlands","2011-02","Return",2,-79.80
+"Cyprus","2011-02","Return",1,-320.69
+"Germany","2011-02","Return",12,-611.81
+"EIRE","2011-02","Return",2,-2574.60
+"United Kingdom","2011-02","Return",175,-6802.00
+"United Kingdom","2011-03","Sale",1177,467198.59
+"Netherlands","2011-03","Sale",8,22416.49
+"EIRE","2011-03","Sale",22,21674.36
+"Australia","2011-03","Sale",3,17223.99
+"France","2011-03","Sale",25,14589.55
+"Germany","2011-03","Sale",32,14392.69
+"Finland","2011-03","Sale",5,5936.82
+"Spain","2011-03","Sale",8,5363.15
+"Sweden","2011-03","Sale",3,4720.58
+"Denmark","2011-03","Sale",1,3978.99
+"Channel Islands","2011-03","Sale",3,3509.33
+"Belgium","2011-03","Sale",9,3351.98
+"Portugal","2011-03","Sale",5,2660.85
+"Switzerland","2011-03","Sale",3,1870.23
+"Italy","2011-03","Sale",4,1806.81
+"Austria","2011-03","Sale",2,1708.12
+"Norway","2011-03","Sale",4,1265.31
+"Cyprus","2011-03","Sale",1,938.39
+"Greece","2011-03","Sale",1,387.31
+"Poland","2011-03","Sale",1,317.78
+"Canada","2011-03","Sale",1,140.54
+"Japan","2011-03","Sale",3,48.90
+"Finland","2011-03","Return",1,-12.20
+"Poland","2011-03","Return",1,-14.39
+"Saudi Arabia","2011-03","Return",1,-14.75
+"Belgium","2011-03","Return",1,-18.40
+"Italy","2011-03","Return",2,-27.90
+"Spain","2011-03","Return",1,-36.50
+"France","2011-03","Return",3,-72.65
+"Japan","2011-03","Return",4,-122.56
+"Australia","2011-03","Return",1,-168.70
+"Sweden","2011-03","Return",1,-180.00
+"Germany","2011-03","Return",10,-222.67
+"Norway","2011-03","Return",3,-960.63
+"EIRE","2011-03","Return",4,-3404.08
+"United Kingdom","2011-03","Return",265,-10280.72
+"United Kingdom","2011-04","Sale",1058,409559.14
+"Germany","2011-04","Sale",23,12315.54
+"Singapore","2011-04","Sale",3,8209.58
+"EIRE","2011-04","Sale",11,7570.50
+"Japan","2011-04","Sale",2,6548.50
+"France","2011-04","Sale",14,5529.61
+"Netherlands","2011-04","Sale",3,2976.56
+"Switzerland","2011-04","Sale",4,2076.94
+"Belgium","2011-04","Sale",6,1989.48
+"Spain","2011-04","Sale",3,1785.65
+"Finland","2011-04","Sale",4,1688.92
+"Portugal","2011-04","Sale",2,1687.75
+"Brazil","2011-04","Sale",1,1143.60
+"Sweden","2011-04","Sale",2,809.10
+"Australia","2011-04","Sale",2,771.60
+"Italy","2011-04","Sale",2,737.83
+"Poland","2011-04","Sale",1,705.84
+"Austria","2011-04","Sale",2,680.78
+"Iceland","2011-04","Sale",1,636.25
+"Greece","2011-04","Sale",1,609.74
+"USA","2011-04","Sale",1,383.95
+"Unspecified","2011-04","Sale",1,299.10
+"Channel Islands","2011-04","Sale",1,293.00
+"European Community","2011-04","Sale",1,191.40
+"Belgium","2011-04","Return",3,-35.33
+"Cyprus","2011-04","Return",1,-35.80
+"Czech Republic","2011-04","Return",1,-57.51
+"Finland","2011-04","Return",1,-62.11
+"Switzerland","2011-04","Return",3,-254.75
+"Germany","2011-04","Return",8,-352.17
+"Australia","2011-04","Return",2,-438.20
+"France","2011-04","Return",6,-1334.40
+"Japan","2011-04","Return",2,-1676.67
+"Singapore","2011-04","Return",2,-6090.84
+"United Kingdom","2011-04","Return",206,-32814.73
+"United Kingdom","2011-05","Sale",1403,551568.82
+"Netherlands","2011-05","Sale",11,29185.88
+"Germany","2011-05","Sale",42,25751.20
+"France","2011-05","Sale",39,17614.88
+"EIRE","2011-05","Sale",18,15982.19
+"Australia","2011-05","Sale",4,13638.41
+"Portugal","2011-05","Sale",5,4202.23
+"Switzerland","2011-05","Sale",3,3610.01
+"Spain","2011-05","Sale",4,3257.60
+"Belgium","2011-05","Sale",9,2732.40
+"Sweden","2011-05","Sale",3,2681.98
+"Poland","2011-05","Sale",3,1522.37
+"Japan","2011-05","Sale",1,1351.45
+"Austria","2011-05","Sale",2,1249.43
+"Channel Islands","2011-05","Sale",2,1207.24
+"Unspecified","2011-05","Sale",1,852.68
+"Italy","2011-05","Sale",1,587.45
+"Bahrain","2011-05","Sale",2,548.40
+"Canada","2011-05","Sale",1,534.24
+"Denmark","2011-05","Sale",1,515.70
+"Belgium","2011-05","Return",1,-5.40
+"Australia","2011-05","Return",1,-9.90
+"Sweden","2011-05","Return",2,-17.00
+"Switzerland","2011-05","Return",1,-42.80
+"EIRE","2011-05","Return",5,-87.41
+"France","2011-05","Return",4,-87.80
+"Germany","2011-05","Return",10,-179.85
+"Channel Islands","2011-05","Return",2,-303.45
+"Portugal","2011-05","Return",5,-3614.40
+"United Kingdom","2011-05","Return",263,-25995.47
+"United Kingdom","2011-06","Sale",1249,524915.48
+"Netherlands","2011-06","Sale",11,26858.09
+"Australia","2011-06","Sale",4,25187.77
+"EIRE","2011-06","Sale",24,19835.99
+"France","2011-06","Sale",30,16078.97
+"Germany","2011-06","Sale",24,13274.10
+"Switzerland","2011-06","Sale",4,7904.15
+"Norway","2011-06","Sale",4,5886.86
+"Belgium","2011-06","Sale",11,4274.82
+"Spain","2011-06","Sale",8,3333.21
+"Denmark","2011-06","Sale",3,3261.15
+"Channel Islands","2011-06","Sale",1,2060.03
+"Japan","2011-06","Sale",1,1607.04
+"Canada","2011-06","Sale",1,1171.46
+"Cyprus","2011-06","Sale",1,1109.32
+"Portugal","2011-06","Sale",3,884.46
+"Malta","2011-06","Sale",2,863.16
+"Sweden","2011-06","Sale",3,832.00
+"European Community","2011-06","Sale",2,432.05
+"Iceland","2011-06","Sale",1,382.52
+"Poland","2011-06","Sale",2,343.65
+"Finland","2011-06","Sale",1,329.56
+"Italy","2011-06","Sale",2,202.07
+"Unspecified","2011-06","Sale",1,185.78
+"Spain","2011-06","Return",1,-0.77
+"Belgium","2011-06","Return",1,-1.65
+"Portugal","2011-06","Return",1,-4.95
+"European Community","2011-06","Return",1,-8.50
+"Malta","2011-06","Return",1,-12.75
+"EIRE","2011-06","Return",3,-13.20
+"Netherlands","2011-06","Return",1,-15.00
+"Switzerland","2011-06","Return",1,-21.95
+"Australia","2011-06","Return",1,-23.00
+"Austria","2011-06","Return",1,-24.20
+"Italy","2011-06","Return",1,-39.80
+"Poland","2011-06","Return",2,-78.91
+"Germany","2011-06","Return",9,-193.08
+"France","2011-06","Return",3,-356.54
+"United Kingdom","2011-06","Return",287,-52406.23
+"United Kingdom","2011-07","Sale",1200,485612.25
+"EIRE","2011-07","Sale",22,40905.15
+"Germany","2011-07","Sale",33,16440.98
+"France","2011-07","Sale",22,10000.19
+"Spain","2011-07","Sale",9,7624.92
+"Sweden","2011-07","Sale",3,6802.09
+"Australia","2011-07","Sale",7,4964.38
+"Singapore","2011-07","Sale",1,3949.32
+"Japan","2011-07","Sale",2,3854.40
+"Switzerland","2011-07","Sale",5,3762.65
+"Finland","2011-07","Sale",3,2996.73
+"Belgium","2011-07","Sale",5,2475.57
+"Portugal","2011-07","Sale",3,2287.85
+"Canada","2011-07","Sale",2,1768.58
+"Israel","2011-07","Sale",1,1430.75
+"Austria","2011-07","Sale",2,1191.95
+"Norway","2011-07","Sale",1,890.07
+"Unspecified","2011-07","Sale",3,798.48
+"Poland","2011-07","Sale",2,687.30
+"European Community","2011-07","Sale",1,676.80
+"Greece","2011-07","Sale",1,421.24
+"Denmark","2011-07","Sale",1,376.24
+"Italy","2011-07","Sale",1,147.10
+"Netherlands","2011-07","Sale",1,26.02
+"Belgium","2011-07","Return",1,-1.95
+"Poland","2011-07","Return",1,-8.85
+"EIRE","2011-07","Return",2,-31.00
+"Spain","2011-07","Return",1,-46.75
+"Greece","2011-07","Return",1,-50.00
+"France","2011-07","Return",3,-111.20
+"Australia","2011-07","Return",2,-196.81
+"Switzerland","2011-07","Return",2,-222.00
+"Germany","2011-07","Return",10,-719.32
+"United Kingdom","2011-07","Return",239,-24464.65
+"United Kingdom","2011-08","Sale",1133,498453.32
+"Netherlands","2011-08","Sale",7,40327.81
+"Australia","2011-08","Sale",2,22489.20
+"Germany","2011-08","Sale",39,19220.77
+"EIRE","2011-08","Sale",17,16967.38
+"France","2011-08","Sale",28,13810.96
+"Switzerland","2011-08","Sale",3,4969.89
+"Channel Islands","2011-08","Sale",5,4896.78
+"Israel","2011-08","Sale",1,4873.81
+"Belgium","2011-08","Sale",9,3554.02
+"Spain","2011-08","Sale",10,3346.91
+"Norway","2011-08","Sale",2,2025.81
+"Italy","2011-08","Sale",4,1990.95
+"Austria","2011-08","Sale",2,1516.08
+"Sweden","2011-08","Sale",5,1400.86
+"Finland","2011-08","Sale",3,1376.50
+"Portugal","2011-08","Sale",1,1221.40
+"Malta","2011-08","Sale",2,1119.00
+"Iceland","2011-08","Sale",1,584.91
+"Unspecified","2011-08","Sale",2,531.03
+"Poland","2011-08","Sale",2,401.80
+"Denmark","2011-08","Sale",1,213.15
+"Canada","2011-08","Sale",1,51.56
+"Channel Islands","2011-08","Return",1,-4.25
+"Finland","2011-08","Return",1,-4.95
+"Sweden","2011-08","Return",1,-9.90
+"Portugal","2011-08","Return",1,-15.00
+"Malta","2011-08","Return",1,-15.75
+"Spain","2011-08","Return",1,-16.50
+"Belgium","2011-08","Return",1,-17.90
+"France","2011-08","Return",1,-21.70
+"Norway","2011-08","Return",1,-41.35
+"Japan","2011-08","Return",1,-49.79
+"Italy","2011-08","Return",3,-56.15
+"Switzerland","2011-08","Return",5,-87.70
+"Denmark","2011-08","Return",1,-134.55
+"Germany","2011-08","Return",9,-197.12
+"Netherlands","2011-08","Return",2,-672.00
+"EIRE","2011-08","Return",8,-6186.38
+"United Kingdom","2011-08","Return",225,-21444.91
+"United Kingdom","2011-09","Sale",1568,796780.27
+"EIRE","2011-09","Sale",36,40995.49
+"Netherlands","2011-09","Sale",7,26937.26
+"France","2011-09","Sale",45,23428.04
+"Germany","2011-09","Sale",41,18091.22
+"Norway","2011-09","Sale",6,8678.94
+"Switzerland","2011-09","Sale",7,8284.86
+"Spain","2011-09","Sale",8,5189.24
+"Australia","2011-09","Sale",8,5106.73
+"Sweden","2011-09","Sale",3,4575.21
+"Denmark","2011-09","Sale",3,4570.16
+"Belgium","2011-09","Sale",7,4208.02
+"Portugal","2011-09","Sale",3,1433.22
+"Channel Islands","2011-09","Sale",2,1323.75
+"Finland","2011-09","Sale",4,1105.45
+"United Arab Emirates","2011-09","Sale",2,1013.04
+"Poland","2011-09","Sale",2,529.25
+"Italy","2011-09","Sale",1,279.80
+"Cyprus","2011-09","Sale",1,196.35
+"Japan","2011-09","Sale",1,112.08
+"Channel Islands","2011-09","Return",1,-2.10
+"Belgium","2011-09","Return",1,-10.20
+"Spain","2011-09","Return",1,-25.50
+"Switzerland","2011-09","Return",4,-29.90
+"Australia","2011-09","Return",1,-75.00
+"France","2011-09","Return",7,-229.17
+"Germany","2011-09","Return",16,-370.91
+"EIRE","2011-09","Return",12,-404.80
+"United Kingdom","2011-09","Return",279,-20250.43
+"United Kingdom","2011-10","Sale",1705,824766.22
+"Netherlands","2011-10","Sale",15,40708.65
+"France","2011-10","Sale",35,33485.45
+"Germany","2011-10","Sale",58,31638.42
+"EIRE","2011-10","Sale",31,24317.92
+"Australia","2011-10","Sale",4,17150.53
+"Spain","2011-10","Sale",8,8636.94
+"Switzerland","2011-10","Sale",6,7655.19
+"Singapore","2011-10","Sale",2,7067.32
+"Portugal","2011-10","Sale",9,5899.46
+"Sweden","2011-10","Sale",3,5766.16
+"Belgium","2011-10","Sale",11,5685.38
+"Cyprus","2011-10","Sale",4,4412.87
+"Norway","2011-10","Sale",7,3687.23
+"Italy","2011-10","Sale",7,3489.69
+"Finland","2011-10","Sale",6,2822.12
+"Channel Islands","2011-10","Sale",5,2623.32
+"USA","2011-10","Sale",2,2311.20
+"Japan","2011-10","Sale",2,1948.04
+"Denmark","2011-10","Sale",3,1490.76
+"Iceland","2011-10","Sale",1,1294.32
+"Austria","2011-10","Sale",1,1043.78
+"RSA","2011-10","Sale",1,1002.31
+"Czech Republic","2011-10","Sale",1,277.48
+"Israel","2011-10","Sale",2,138.03
+"Finland","2011-10","Return",1,-18.00
+"Switzerland","2011-10","Return",2,-31.20
+"Belgium","2011-10","Return",2,-34.00
+"Denmark","2011-10","Return",2,-52.65
+"Italy","2011-10","Return",2,-78.90
+"Cyprus","2011-10","Return",1,-196.35
+"Portugal","2011-10","Return",2,-622.04
+"EIRE","2011-10","Return",6,-1010.30
+"Germany","2011-10","Return",15,-1024.15
+"USA","2011-10","Return",1,-1579.51
+"Spain","2011-10","Return",3,-3558.29
+"Singapore","2011-10","Return",1,-6068.06
+"France","2011-10","Return",8,-8453.41
+"United Kingdom","2011-10","Return",288,-41988.34
+"United Kingdom","2011-11","Sale",2386,980645.75
+"France","2011-11","Sale",62,31337.09
+"EIRE","2011-11","Sale",39,29473.41
+"Germany","2011-11","Sale",68,28025.02
+"Netherlands","2011-11","Sale",15,25874.01
+"Spain","2011-11","Sale",14,8678.96
+"Japan","2011-11","Sale",2,8460.08
+"Switzerland","2011-11","Sale",6,8118.96
+"Australia","2011-11","Sale",6,7242.72
+"Norway","2011-11","Sale",5,6527.50
+"Belgium","2011-11","Sale",11,6315.76
+"Italy","2011-11","Sale",9,4571.08
+"Finland","2011-11","Sale",8,3070.24
+"Sweden","2011-11","Sale",5,2722.23
+"Denmark","2011-11","Sale",2,2699.57
+"Portugal","2011-11","Sale",10,2644.90
+"Channel Islands","2011-11","Sale",3,1514.77
+"Poland","2011-11","Sale",2,1361.23
+"Austria","2011-11","Sale",2,1329.78
+"Malta","2011-11","Sale",1,743.43
+"Cyprus","2011-11","Sale",1,460.89
+"Switzerland","2011-11","Return",1,-2.00
+"Netherlands","2011-11","Return",1,-18.00
+"Poland","2011-11","Return",1,-19.36
+"Channel Islands","2011-11","Return",1,-19.60
+"Czech Republic","2011-11","Return",2,-61.51
+"Belgium","2011-11","Return",4,-86.35
+"Sweden","2011-11","Return",3,-109.52
+"Finland","2011-11","Return",2,-120.00
+"Spain","2011-11","Return",2,-145.09
+"Malta","2011-11","Return",2,-160.81
+"EIRE","2011-11","Return",11,-325.38
+"Italy","2011-11","Return",5,-327.33
+"Australia","2011-11","Return",2,-436.73
+"France","2011-11","Return",12,-1061.20
+"Germany","2011-11","Return",20,-1980.67
+"United Kingdom","2011-11","Return",359,-24536.09
+"United Kingdom","2011-12","Sale",706,472384.17
+"Netherlands","2011-12","Sale",3,11728.02
+"Germany","2011-12","Sale",17,7984.17
+"France","2011-12","Sale",18,7294.92
+"EIRE","2011-12","Sale",9,6978.92
+"Portugal","2011-12","Sale",4,2808.19
+"Norway","2011-12","Sale",3,2785.70
+"Belgium","2011-12","Sale",4,1417.73
+"Finland","2011-12","Sale",3,1232.76
+"USA","2011-12","Sale",2,885.24
+"Austria","2011-12","Sale",1,683.20
+"Greece","2011-12","Sale",1,680.99
+"Spain","2011-12","Sale",2,316.21
+"Sweden","2011-12","Sale",1,238.00
+"Iceland","2011-12","Sale",1,224.82
+"Italy","2011-12","Sale",1,200.45
+"Channel Islands","2011-12","Sale",1,198.40
+"Denmark","2011-12","Sale",1,168.90
+"Finland","2011-12","Return",1,-2.08
+"EIRE","2011-12","Return",1,-2.55
+"Channel Islands","2011-12","Return",1,-4.25
+"Portugal","2011-12","Return",1,-6.24
+"Belgium","2011-12","Return",1,-8.30
+"Malta","2011-12","Return",1,-30.81
+"Spain","2011-12","Return",1,-44.78
+"Cyprus","2011-12","Return",1,-91.25
+"Japan","2011-12","Return",1,-116.93
+"Germany","2011-12","Return",5,-179.47
+"France","2011-12","Return",3,-228.09
+"Sweden","2011-12","Return",1,-238.00
+"USA","2011-12","Return",1,-269.96
+"United Kingdom","2011-12","Return",124,-174463.70
